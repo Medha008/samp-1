@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "samp-1"
+  description: "desc"
+spec:
+  type: service
+  owner: "user:Medha008"
+  lifecycle: experimental
